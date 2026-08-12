@@ -57,3 +57,8 @@ The selected movement threshold was:
 ```text
 σmax ≤ 0.015  →  STATIONARY
 σmax > 0.015  →  MOVING
+## 5. Demonstration Video
+
+A demonstration of the developed rover system, including casualty assessment, environmental hazard monitoring, and dashboard output.
+
+[▶ Watch the Project Demonstration](https://drive.google.com/drive/folders/1fagYlGnrdbUKubp6HfBWclfjgMLTXti3)
